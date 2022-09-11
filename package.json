@@ -12,5 +12,9 @@
   ],
   "author": "Alejandra Hernandez <maria_aleja26@hotmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.9.0"
+  }
 }
